@@ -1,2 +1,2 @@
-# Massotherapy
-Primeiro projeto CSS HTML e JAVASCRIPT / site 
+# Massotherapy site responsivo
+Primeiro projeto CSS HTML e JAVASCRIPT
