@@ -4,5 +4,5 @@
 <h4> Responsive website simulating an institutional website of a massage therapy clinic. </h4>
 <i> Site responsivo simulando um site institucional de uma clincia de massoterapia. </i>
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 HTML, CSS, ECMASCRIPT/JAVASCRIPT.
