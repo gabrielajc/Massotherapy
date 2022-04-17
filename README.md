@@ -10,3 +10,8 @@
 ### 🛠️ Technologies
 HTML, CSS, ECMASCRIPT/JAVASCRIPT.
 
+### :woman: Autor
+
+Feito com ❤️ por Gabriela Clemente Joaquim. :wave: Obrigada por acessar.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabeclemente/)](https://www.linkedin.com/in/gabeclemente/) 
