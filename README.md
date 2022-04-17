@@ -1,5 +1,5 @@
 <h1 align="center"> Massotherapy Site </h1> 
-<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#008000&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/gabrielajc/massotherapy?color=blue"/> 
+<p align="center"> <img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=#008000&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/github/license/gabrielajc/massotherapy?color=blue"/> </p>
 
 <h6> Status: Concluido :heavy_check_mark: </h6>
 
